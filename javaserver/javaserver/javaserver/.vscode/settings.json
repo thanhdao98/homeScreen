@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/apple/Downloads/json-simple-1.1.1.jar",
+        "c:\\Users\\k.xa.thi.giang\\Downloads\\json-simple-1.1.1.jar\\json-simple-1.1.1.jar"
+    ]
+}
